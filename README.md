@@ -1,63 +1,10 @@
-# Nuxt 3 Minimal Starter
+#NUXT-based Shopify’s dawn theme
+Hey there 👋, thanks for your interest in this repository. I created this project to keep my front-end skills like NUXT, Vue, and styling sharp, along with strengthening my portfolio in order to improve my chances of landing a front-end role.
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+You can view a live demo of this repo at https://azinhonari.github.io/azinshop/
 
-## Setup
+I used a free Shopify template named dawn as a blueprint for this project.
 
-Make sure to install the dependencies:
+#Folder structure
+The architecture adheres to Nuxt.js conventions, and I employed this framework for implementing routing and state management.
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
